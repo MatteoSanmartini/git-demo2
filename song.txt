@@ -7,3 +7,5 @@ secod commit
 3th commit
 4th commit
 final
+
+new non conflict part
