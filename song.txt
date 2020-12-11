@@ -5,8 +5,12 @@ eeeeeee
 first commit in feature
 secod commit
 3th commit
+<<<<<<< Updated upstream
 4th commit
 final
 
 new non conflict part
 changes from feature
+=======
+feature stash
+>>>>>>> Stashed changes
